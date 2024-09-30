@@ -28,7 +28,7 @@
         return "Hola " + nombre + " " + apellido;
     }
 
-    saludarPersonalizadobe
+
 // 2.3 Crea una función llamada `calcularPotencia` que reciba dos parámetros: base y exponente. La función debe devolver el resultado de elevar la base al exponente.
     
     function calcularPotencia(base, exponente){
